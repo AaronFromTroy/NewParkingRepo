@@ -1,2 +1,4 @@
-YouParking is still in development, but this is the current working respository. YouParking is being created for the IEEE VNC App Contest
-and will be submitted on October 30th 2016.
+# YouParking
+YouParking is an android application that allows users to buy a sell parking spots for digital currency known as tickets.
+
+# YouParking was submitted to the IEEE Vehicle Networking Conference app competition. We were one of 6 teams to make finalist.
